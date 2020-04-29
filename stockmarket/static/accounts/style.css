@@ -1,0 +1,27 @@
+
+h4{
+    color: red !important ;
+}
+p{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  black;
+}
+nav.navbar
+{
+    background-color: pink !important;
+    padding: 20px 10px;
+    position: fixed; 
+    top: 0;
+    width: 100%;
+    padding: 12px;
+    opacity: 1;
+
+}
+
+body{
+    background-color: #f5e2e2 !important;
+}
+table.table{
+    margin-top:100px;
+}

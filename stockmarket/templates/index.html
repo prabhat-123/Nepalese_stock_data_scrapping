@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="table-responsive">
+  <table class="table">
+    {% for items in stock_header %}
+    <th>{{items}}</th>
+    {% endfor %}
+    <tr>{% for items in stock_details %}
+      <tr>{% for value in items %}
+        <td>{{value}}</td>
+        {% endfor %}
+        {% endfor %}
+        </tr>
+        </tr>
+
+  </table>
+</div>
+
+
+{% endblock %}
