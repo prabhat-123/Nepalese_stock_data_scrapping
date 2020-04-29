@@ -1,6 +1,6 @@
 # Nepalese_stock_data_scraping
 
-# HOW TO RUN THIS PROJECT
+## HOW TO RUN THIS PROJECT
 
 ### 1.  Download the repository or clone it.
 
